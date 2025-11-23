@@ -4,6 +4,9 @@
   </a>
 </div>
 
+# Hi, I'm Paulo! 👋
+
+I'm just someone who loves computing, starting my journey as a programmer and currently studying Computer Science.
 
 
 <div align="center">
